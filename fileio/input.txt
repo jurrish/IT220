@@ -1,0 +1,2 @@
+I am waiting to be read by a Java Program
+100 true 100.2
